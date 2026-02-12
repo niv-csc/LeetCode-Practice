@@ -1,4 +1,4 @@
-# LeetCode Daily Practice Solutions.
+# LeetCode Practice Solutions.
 
 This repository contains my daily solutions to LeetCode problems.  
 Each file is named according to the problem number and title for easy reference.
