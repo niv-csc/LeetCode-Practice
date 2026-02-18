@@ -1,6 +1,6 @@
 # LeetCode Practice Solutions
 
-This repository contains my daily solutions to LeetCode problems.  
+This repository contains my solutions to LeetCode problems.  
 Each file is named according to the problem number and title for easy reference.
 
 ## 📌 Goals
