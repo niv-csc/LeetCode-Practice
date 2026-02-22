@@ -1,4 +1,4 @@
-# LeetCode Practice Solutions
+# LeetCode Practice Solution
 
 This repository contains my solutions to LeetCode problems.  
 Each file is named according to the problem number and title for easy reference.
