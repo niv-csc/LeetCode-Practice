@@ -13,6 +13,7 @@ Each file is named according to the problem number and title for easy reference.
 - Python
 - C++
 - (and more as I explore)
+- SQL
 
 ## 📂 Structure
 - Each solution is stored in a separate file.
